@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 交互式数据分析工作台｜JupyterLab
+
+> **一句话看懂：边写分析代码边查看结果和记录过程。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 边写分析代码边查看结果和记录过程。 |
+| 怎么使用 | 在浏览器工作区里编写代码、运行分析并记录过程。 |
+| 适合谁 | 需要一边做研究、一边查看图表和保留步骤的人。 |
+| 主要限制 | 插件兼容和乱序运行可能影响复现。 |
+| 后续可以怎么改 | 固定环境，交付前从头顺序运行。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 **[Installation](#installation)** |
 **[Documentation](https://jupyterlab.readthedocs.io)** |
 **[Contributing](#contributing)** |
@@ -187,3 +212,6 @@ Anyone is welcome to attend, if they would like to discuss a topic or just liste
 - What: [Meeting notes](https://hackmd.io/Y7fBMQPSQ1C08SDGI-fwtg?both)
 
 > Notes are archived on [GitHub Jupyter Frontends team compass](https://github.com/jupyterlab/frontends-team-compass/issues).
+
+
+</details>
